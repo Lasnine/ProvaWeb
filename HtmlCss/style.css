@@ -1,0 +1,121 @@
+h1{
+    justify-content: center;
+    display: flex;
+    font-style: oblique;
+    font-size: 50px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    height: 40%;
+}
+
+.retangulo1{
+    background-color: rgb(63, 164, 231);
+    width: 50%;
+    height: 60%;
+    position: relative;
+}
+.Q1{
+    position: absolute;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    top: 30%;
+    left:0%;
+}
+.retangulo2{
+    background-color: yellow;
+    width: 50%;
+    height: 60%;
+    position: relative;
+}
+.Q2{
+    position: absolute;
+    background-color:  rgb(63, 164, 231);
+    width: 100px;
+    height: 100px;
+    top: 30%;
+    left:89.5%;
+}
+.Q3{
+    position: absolute;
+    background-color:  yellow;
+    width: 100px;
+    height: 100px;
+    top: 41.9%;
+    left:48%;
+}
+
+.Q4{
+    position: absolute;
+    background-color:  rgb(63, 164, 231);
+    width: 100px;
+    height: 100px;
+    top: 60%;
+    left:48%;
+}
+
+.OutraFlex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    height: 70%;
+}
+.retangulo3{
+    background-color:  rgb(63, 164, 231);
+    width: 100%;
+    height: 40%;
+    position: relative;
+}
+
+.Q5{
+    position: absolute;
+    background-color:  yellow;
+    width: 100px;
+    height: 100px;
+    top: 30%;
+    left:0%;
+}
+
+.Q6{
+    position: absolute;
+    background-color:  yellow;
+    width: 100px;
+    height: 100px;
+    top: 30%;
+    left:25%;
+}
+
+.Q7{
+    position: absolute;
+    background-color:  yellow;
+    width: 100px;
+    height: 100px;
+    top: 30%;
+    left:48%;
+}
+
+.Q8{
+    position: absolute;
+    background-color:  yellow;
+    width: 100px;
+    height: 100px;
+    top: 30%;
+    left:70%;
+}
+
+.Q9{
+    position: absolute;
+    background-color:  yellow;
+    width: 100px;
+    height: 100px;
+    top: 30%;
+    left:94.7%;
+}
